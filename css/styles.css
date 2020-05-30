@@ -1,0 +1,152 @@
+body{
+	text-align: center;
+	margin: 0;
+	font-family: 'Montserrat', sans-serif;
+	background-color: #b4f2e1;
+}
+
+h1{
+	color: #66BFBF;
+	font-size: 4rem;
+	margin: 0 auto 50 auto;
+	font-family: 'Sacramento', cursive;
+}
+h2{
+	color: #66BFBF;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 3rem;
+	font-weight: normal;
+}
+h3{
+	color: #11999E;
+	font-size: 2rem;
+	font-family: 'Montserrat', sans-serif;
+}
+
+p{
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+td{
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.top-container{
+	background-color: #b4f2e1;
+	position: relative;
+	padding-top: 100px;
+}
+.middle-container{
+	background-color: #b4f2e1;
+}
+.bottom-container{
+background-color: #b4f2e1
+}
+
+
+.PhD{
+	text-decoration: underline;
+}
+
+.top-cloud{
+	position: absolute;
+	right: 200px;
+	top: 100px;
+}
+
+.bottom-cloud{
+	position: absolute;
+	left: 200px;
+	bottom: 300px;
+}
+
+hr {
+	border-style: none;
+	border-top-style: dotted;
+	border-color: gray;
+	border-width: 5px;
+	width: 50px;
+}
+
+.Work_Experience {
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align:center;
+	line-height: 4;
+}
+
+.table {
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align:left;
+	line-height: 2;
+}
+
+.skill-row {
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	line-height: 2;
+}
+
+.web {
+	width:25%;
+	float: left;
+	margin-right: 30px;
+}
+
+.science {
+	width: 25%;
+	float: right;
+	margin-left: 30px;
+}
+
+.design {
+	width:25%;
+	float: left;
+	margin-right: 30px;
+}
+
+.languages {
+	text-align: center;
+	width: 25%;
+	float: right;
+	margin-left: 30px;
+}
+
+
+.contact-me {
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align:center;
+	font-size: 30px;
+}
+
+.research {
+	font-size: 30px;
+}
+
+.linkedin {
+	font-size: 30px;
+}
+
+.twitter {
+	font-size: 30px;
+}
+
+.event-img {
+	width: 100%;
+	position:fixed;
+}
+
+.Dino {
+	width:15%;
+	margin: 10px auto 10px auto;
+}
+
+.education {
+	width:15%;
+	margin: 10px auto 10px auto;
+}
